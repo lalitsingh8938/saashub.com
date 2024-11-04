@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Issuu",
+      "category": "Digital Publishing / Online Presence Management",
+      "description": "Issuu is the leading digital publishing platform delivering exceptional reading experiences of magazines, catalogs, and newspapers."
+    },
+    {
+      "id": 2,
+      "name": "MagicBlog AI",
+      "category": "Content Marketing / Blogging",
+      "description": "Bringing the magic back to content writing. Leverage MagicBlog to write long-form, SEO optimized articles in just minutes. Then use the MagicComposer to optimize them as needed. Get your first 2,000 words free! Start writing now!"
+    },
+    {
+      "id": 3,
+      "name": "FlippingBook",
+      "category": "Digital Publishing / Content Marketing",
+      "description": "FlippingBook changes the way you present your documents."
+    },
+    {
+      "id": 4,
+      "name": "Maglr",
+      "category": "Content Marketing / Content Creation",
+      "description": "Create, share and manage interactive web content with Maglr: a no-code design platform for marketers and designers."
+    },
+    {
+      "id": 5,
+      "name": "Liberly",
+      "category": "Social Networks / Membership Management",
+      "description": "Liberly is a subscription-based platform where Content Creators, ranging from models and adult entertainers, offer exclusive access to their photos and videos for a fee. It provides a space for creators to connect directly with their fans and monetize."
+    },
+    {
+      "id": 6,
+      "name": "Frontegg",
+      "category": "Featured",
+      "description": "Elegant user management, tailor-made for B2B SaaS."
+    }
+  ]
+  

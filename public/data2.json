@@ -1,0 +1,47 @@
+{
+    "companies": [
+      {
+        "id": 1,
+        "name": "Propello",
+        "description": "Grow Revenue, Reduce Customer Churn, Retain Customers...",
+        "logo": "/logo-7.png"
+      },
+      {
+        "id": 2,
+        "name": "Qrvey",
+        "description": "Embedded Analytics built exclusively for SaaS applications.",
+        "logo": "/logo-8.png"
+      },
+      {
+        "id": 3,
+        "name": "Submit Juice",
+        "description": "Free and curated list of startup directories to promote your new...",
+        "logo": "/logo-9.png"
+      },
+      {
+        "id": 4,
+        "name": "MailReach.co",
+        "description": "The #1 email warming service to improve your deliverability by...",
+        "logo": "/logo-10.png"
+      },
+      {
+        "id": 5,
+        "name": "Atlas HXM",
+        "description": "Atlas HXM is the largest Direct Employer of Record (EOR)...",
+        "logo": "/logo-11.png"
+      },
+      {
+        "id": 6,
+        "name": "Cointimes.ai",
+        "description": "ChatGPT for cryptocurrencies",
+        "logo": "/logo-12.png"
+      },
+      {
+        "id": 7,
+        "name": "Syntetica.ai",
+        "description": "Less chatting, more doing",
+        "logo": "/logo-13.png"
+      }
+    ]
+  }
+  
