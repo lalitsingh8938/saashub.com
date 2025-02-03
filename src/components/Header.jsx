@@ -82,6 +82,15 @@ const Header = () => {
 
 export default Header;
 
+
+
+
+
+
+
+
+
+
 // import React from 'react';
 // import { IoSearch } from "react-icons/io5";
 // import { FaRegStar } from "react-icons/fa";

@@ -43,7 +43,7 @@ function Login() {
       );
 
       if (response.status === 200) {
-        // Check for successful login
+        // Login successful
         console.log("Login successful:", response.data);
         alert("Login successful!");
 
@@ -53,10 +53,10 @@ function Login() {
           password: "",
         });
 
-        setErrorMessage(""); // Clear any error messages
+        setErrorMessage(""); // Clear error messages
 
-        // Navigate to home page (where Navbar is included)
-        navigate("/"); // Redirect to the route that includes <Navbar />
+        // Navigate to the home page
+        navigate("/");
       }
     } catch (error) {
       console.error(
@@ -64,7 +64,7 @@ function Login() {
         error.response?.data || error.message
       );
 
-      // Handle different error responses
+      // Handle error responses
       if (error.response) {
         const errorMessage =
           error.response.data?.message || "Login failed. Please try again.";

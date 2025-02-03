@@ -342,9 +342,9 @@ const Experts = () => {
             </p>
             </p>
             <div className='flex ml-2 items-center'>
-            <input className= "w-56 h-9 mt-2 text-md bg-slate-50 rounded-md font-md" type='search' placeholder='   Your email'
+            <input className= "w-56 h-9 mt-2 text-md text-black bg-slate-50 rounded-md font-md" type='search' placeholder='   Your email'
             /> 
-              <button className="bg-green-500 mt-2 ml-2 font-medium text-white rounded-md w-24 h-9">
+              <button className="bg-green-500 mt-2 ml-2 font-medium text-ehiterounded-md w-24 h-9">
               Subscribe
             </button>
             </div>
